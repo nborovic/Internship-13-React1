@@ -1,0 +1,41 @@
+body {
+  margin: 20px 0 0 20px;
+}
+
+.color-changer {
+  max-width: 300px;
+  display: flex;
+  flex-direction: column;
+}
+
+.color-changer > span {
+  margin: 2px 0;
+}
+
+.c-red {
+  color: red;
+}
+
+.c-blue {
+  color: blue;
+}
+
+.c-green {
+  color: green;
+}
+
+.c-black {
+  color: black;
+}
+
+.fw-900 {
+  font-weight: 900;
+}
+
+.fw-400 {
+  font-weight: 400;
+}
+
+.c-pointer {
+  cursor: pointer;
+}
